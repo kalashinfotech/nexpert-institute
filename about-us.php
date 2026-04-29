@@ -22,15 +22,15 @@
                 <h1 class="font-extrabold text-[#FFFFFF] text-[34px] leading-[42px] md:text-[65px] md:leading-[80px]">
                     Building
                     <span class="bg-gradient-to-r from-[#019FF5] via-[#00C6B8] to-[#1AD88E] bg-clip-text text-transparent">
-                        Careers.
+                        Careers,
                     </span>
                     <br>
                     Across Industries.
                 </h1>
 
                 <p class="mt-6 text-[#FFFFFF] text-[15px] leading-[24px] md:text-[22px] md:leading-[30px] font-light">
-                    From digital innovation to sports leadership, Nexpert empowers the next generation with
-                    <span class="font-bold">industry-driven education.</span>
+                    Nexpert Institute is known for offering practical learning experiences that prepare students for
+                    <span class="font-bold">real roles in ever-shifting professional domains.</span>
                 </p>
 
             </div>
@@ -50,11 +50,9 @@
 					md:text-[28px] md:leading-[44px] text-white/90">
                 Nexpert is a
                 <span class="text-[#019FF5] font-semibold">
-                    career-focused education institute
+                    professional educational institute
                 </span>
-                designed to bridge the gap between learning and real-world application.
-                With specialized verticals in Digital Marketing and Sports Management,
-                we create industry-ready professionals.
+                primarily concentrating on practical learning and skill development. With highly specialized programs in sports management and digital marketing, students will be getting real-world exposure along with current job requirements.
             </p>
         </div>
     </section>
@@ -76,8 +74,7 @@
                         Mission
                     </h3>
                     <p class="mt-3 text-[16px] text-white/90 leading-[24px]">
-                        Empower students through industry-aligned education and practical learning
-                        that delivers real career outcomes.
+                        Provide organized instruction in digital marketing and sports management with a strong focus on real-world experience and career preparedness.
                     </p>
                     <div class="mt-6 h-[.5px] bg-white/30"></div>
                     <p class="mt-4 text-[14px] text-white font-medium">
@@ -93,8 +90,7 @@
                         Vision
                     </h3>
                     <p class="mt-3 text-[16px] text-white/90 leading-[24px]">
-                        Build a future where education meets employability and real-world skills
-                        drive career success.
+                        Establish a learning ecosystem where professional development and real-world roles are intimately linked to education.
                     </p>
                     <div class="mt-6 h-[.5px] bg-white/30"></div>
                     <p class="mt-4 text-[13px] text-white font-medium">
@@ -110,20 +106,20 @@
                         Values
                     </h3>
                     <p class="mt-3 text-[16px] text-white/90">
-                        Innovation • Integrity • Impact
+                        Innovation • Integrity • Student-Centric Learning
                     </p>
                     <ul class="mt-4 space-y-2 text-[14px] text-white/90">
                         <li class="flex items-center gap-2">
                             <i class="fa-solid fa-circle-check text-white/80 text-xs"></i>
-                            Always innovating
+                            Continuous improvement in teaching methods
                         </li>
                         <li class="flex items-center gap-2">
                             <i class="fa-solid fa-circle-check text-white/80 text-xs"></i>
-                            Student-first approach
+                            Focus on student outcomes
                         </li>
                         <li class="flex items-center gap-2">
                             <i class="fa-solid fa-circle-check text-white/80 text-xs"></i>
-                            Measurable outcomes
+                            Practical, measurable learning results
                         </li>
                     </ul>
                 </div>
@@ -136,10 +132,10 @@
                 <div>
                     <h2 class="text-white font-bold 
 							text-[34px] md:text-[44px] leading-tight">
-                        Why Nexpert
+                        Nexpert’s New Approach To
                         <span class="relative inline-block">
                             <span class="absolute inset-x-0 bottom-1 h-[10px] bg-[#E0F51F66]"></span>
-                            <span class="relative">Exists</span>
+                            <span class="relative">Education</span>
                         </span>
                     </h2>
                 </div>
@@ -149,31 +145,31 @@
                             <span class=" flex items-center justify-center w-7 h-7 rounded-full bg-white mr-2">
                                 <span class="w-3 h-3 rounded-full bg-[#019FF5]"></span>
                             </span>
-                            Traditional education
-                            <span class="font-semibold">lacks industry relevance</span>
+                            Theory-based learning
+                            <span class="font-semibold">limits practical understanding.</span>
                         </li>
                         <li class="flex items-start gap-1">
                             <span class=" flex items-center justify-center w-7 h-7 rounded-full bg-white mr-2">
                                 <span class="w-3 h-3 rounded-full bg-[#019FF5]"></span>
                             </span>
-                            Students struggle with
-                            <span class="font-semibold">employability gaps</span>
+                            Students seek clarity
+                            <span class="font-semibold">in professional pathways.</span>
                         </li>
                         <li class="flex items-start gap-1">
                             <span class=" flex items-center justify-center w-7 h-7 rounded-full bg-white mr-2">
                                 <span class="w-3 h-3 rounded-full bg-[#019FF5]"></span>
                             </span>
-                            Industries
-                            <span class="font-semibold">evolve faster than curriculum</span>
+                            Employers expect
+                            <span class="font-semibold">job-ready capabilities.</span>
                         </li>
                     </ul>
                     <div class="mt-6 p-6 rounded-2xl 
 							bg-[#1A2E4A] border border-[#019FF533]">
                         <p class="text-[#019FF5] font-semibold text-[18px]">
-                            The Solution:
+                            The Approach : 
                         </p>
                         <p class="text-white/90 mt-2 text-[16px] leading-[24px] pr-5">
-                            Nexpert was built to bridge this gap with practical, outcome-driven learning.
+                            Nexpert emphasizes practical learning and real-world application.
                         </p>
                     </div>
                     <div class="grid grid-cols-2 gap-4 mt-6">
@@ -182,28 +178,28 @@
 									bg-[#019FF51A]">
                                 <i class="fa-solid fa-briefcase text-[#019FF5] text-md"></i>
                             </div>
-                            <span class="text-white text-[16px] font-semibold">Industry Integration</span>
+                            <span class="text-white text-[16px] font-semibold">Project-based learning</span>
                         </div>
                         <div class="flex items-center gap-3">
                             <div class="w-11 h-11 rounded-full flex items-center justify-center 
 									bg-[#1AD88E1A]">
                                 <i class="fa-solid fa-bolt text-[#1AD88E] text-md"></i>
                             </div>
-                            <span class="text-white text-[16px] font-semibold">Hands-on Learning</span>
+                            <span class="text-white text-[16px] font-semibold">Expert mentorship</span>
                         </div>
                         <div class="flex items-center gap-3">
                             <div class="w-11 h-11 rounded-full flex items-center justify-center 
 									bg-[#019FF51A]">
                                 <i class="fa-solid fa-chart-line text-[#019FF5] text-md"></i>
                             </div>
-                            <span class="text-white text-[16px] font-semibold">Career Outcomes</span>
+                            <span class="text-white text-[16px] font-semibold">Skill-focused modules</span>
                         </div>
                         <div class="flex items-center gap-3">
                             <div class="w-11 h-11 rounded-full flex items-center justify-center 
 									bg-[#1AD88E1A]">
                                 <i class="fa-solid fa-user-group text-[#1AD88E] text-md"></i>
                             </div>
-                            <span class="text-white text-[16px] font-semibold">Expert Mentors</span>
+                            <span class="text-white text-[16px] font-semibold">Outcome-driven education</span>
                         </div>
                     </div>
                 </div>
@@ -228,27 +224,24 @@
                     </div>
                     <h2 class="mt-4 font-extrabold text-[#141F49] 
 							text-[28px] md:text-[42px] leading-tight">
-                        A Word from Our
-                        <span class="text-[#019FF5]">Founder</span>
+                        Founder’s
+                        <span class="text-[#019FF5]">Perspective</span>
                     </h2>
                     <p class="mt-4 text-[#141F49] text-[16px] leading-[22px] font-medium pr-10">
-                        "I founded Nexpert after witnessing countless talented individuals struggle to find their place
-                        in the modern workforce. The gap between what's taught and what's needed was glaring —
-                        especially in fast-evolving industries like digital marketing and sports management."
+                        “Skill-based education must be maintained in today’s rapidly changing professional environment. Due to their lack of practical experience, many students encounter difficulties."
                     </p>
                     <p class="mt-3 text-[#141F49] text-[16px] leading-[22px] font-medium pr-10">
-                        "We built Nexpert to change that. To create programs that don't just educate, but transform.
-                        Programs that deliver real skills, real confidence, and real career outcomes."
+                        "Nexpert specializes in organized education with practical applications in digital marketing and sports management."
                     </p>
                     <div class="mt-6 p-5 rounded-xl border-l-4 border-[#019FF5] 
 							bg-[linear-gradient(135deg,rgba(1,159,245,0.1),rgba(26,216,142,0.1))]">
                         <p class="text-[#141F49] text-[18px] font-bold pr-4">
-                            “Education should be a bridge to opportunity, not a detour from it.”
+                            "Education must be in line with the demands of the modern workplace and professional standards.”
                         </p>
                     </div>
                     <div class="mt-4">
                         <p class="text-[#141F49] font-extrabold text-[16px]">
-                            Rajesh Kumar
+                            Kashish Khilnani
                         </p>
                         <p class="text-[#141F49] text-[15px]">
                             Founder & CEO, Nexpert Institute
@@ -262,11 +255,11 @@
         <div class="max-w-[1200px] mx-auto px-4">
             <div class="text-center max-w-[700px] mx-auto">
                 <h2 class="text-[28px] md:text-[2.7rem] font-extrabold leading-tight">
-                    <span class="text-[#101828]">Our</span>
-                    <span class="text-[#019FF5]">Impact</span>
+                    <span class="text-[#101828]">Our Impact In</span>
+                    <span class="text-[#019FF5]">Education And Employability</span>
                 </h2>
                 <p class="text-[#4A5565] mt-2.5 text-[14px] md:text-[1.1rem]">
-                    Numbers that speak for themselves
+                    Strong outcomes backed by structured learning
                 </p>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 mt-12 ">
@@ -278,7 +271,7 @@
                         Students Trained
                     </p>
                     <span class="text-[12px] text-[#4A5565]">
-                        Across both verticals
+                        with practical skills
                     </span>
                 </div>
                 <div class="bg-[linear-gradient(135deg,#141F49,#162350,#182657,#1A2A5E)] 
@@ -287,10 +280,10 @@
                         100+
                     </h3>
                     <p class="mt-2 text-[16px] font-bold">
-                        Industry Partners
+                        collaborations with
                     </p>
                     <span class="text-[12px] text-white/70">
-                        Leading companies
+                        leading organizations
                     </span>
                 </div>
                 <div class="bg-white rounded-2xl p-6 shadow-sm z-10">
@@ -298,10 +291,10 @@
                         95%
                     </h3>
                     <p class="mt-2 text-[16px] font-bold text-[#101828]">
-                        Placement Support
+                        placement
                     </p>
                     <span class="text-[12px] text-[#4A5565]">
-                        Career assistance rate
+                        support rate
                     </span>
                 </div>
                 <div class="bg-[linear-gradient(135deg,#019FF5,#019AEE,#0195E7,#0190E0,#018BD9,#0189D6)] 
@@ -310,10 +303,10 @@
                         2
                     </h3>
                     <p class="mt-2 text-[16px] font-bold">
-                        Learning Verticals
+                        Focus
                     </p>
                     <span class="text-[12px] text-white/80">
-                        Digital + Sports
+                        Learning Verticals
                     </span>
                 </div>
             </div>
@@ -323,7 +316,7 @@
         <div class="max-w-[1200px] mx-auto px-4">
             <div class="text-center max-w-[700px] mx-auto">
                 <h2 class="text-[28px] md:text-[2.7rem] font-extrabold leading-tight">
-                    <span class="text-[#101828]">Our</span>
+                    <span class="text-[#101828]">A Smarter Way To Learn</span>
                     <span class="text-[#019FF5]">Approach</span>
                 </h2>
                 <p class="text-[#4A5565] mt-2.5 text-[14px] md:text-[1.1rem]">
