@@ -1,0 +1,116 @@
+{
+  "title": "Nexpert",
+  "assets": {
+    "header_overlay": "./assets/homeHeaderOverlay.png",
+    "header_background": "./assets/homeHeaderBg.png"
+  },
+  "hero_section": {
+    "heading": "Nexpert",
+    "subheading": "Where Careers Take Shape",
+    "description": "Explore industry-driven learning across digital innovation and sports management, designed to make you career-ready from day one."
+  },
+  "learning_ecosystem": {
+    "title": "Our Learning Ecosystem",
+    "subtitle": "Two specialized verticals. One powerful institute.",
+    "cards": [
+      {
+        "title": "Digital Education",
+        "icon": "fa-solid fa-code",
+        "description": "Master the digital world with cutting-edge programs in marketing, AI, and tech.",
+        "features": [
+          {
+            "text": "AI-powered marketing tools & automation",
+            "icon": "fa-solid fa-circle-check"
+          },
+          {
+            "text": "Performance marketing & analytics",
+            "icon": "fa-solid fa-circle-check"
+          },
+          {
+            "text": "Real-world campaigns & portfolios",
+            "icon": "fa-solid fa-circle-check"
+          }
+        ],
+        "button": {
+          "text": "Learn More",
+          "icon": "fa-solid fa-arrow-right"
+        }
+      },
+      {
+        "title": "Sports Education",
+        "icon": "fa-solid fa-trophy",
+        "description": "Lead the sports industry with programs in management, analytics, and business.",
+        "features": [
+          {
+            "text": "Sports business & team management",
+            "icon": "fa-solid fa-circle-check"
+          },
+          {
+            "text": "Analytics & performance tracking",
+            "icon": "fa-solid fa-circle-check"
+          },
+          {
+            "text": "Industry partnerships & placements",
+            "icon": "fa-solid fa-circle-check"
+          }
+        ],
+        "button": {
+          "text": "Learn More",
+          "icon": "fa-solid fa-arrow-right"
+        }
+      }
+    ]
+  },
+  "approach": {
+    "title": "Our Approach",
+    "subtitle": "What makes Nexpert different",
+    "points": [
+      {
+        "title": "Hands-on Learning",
+        "icon": "fa-solid fa-bolt",
+        "description": "Build real projects, not just attend lectures. Learn by doing."
+      },
+      {
+        "title": "Industry Mentors",
+        "icon": "fa-solid fa-user-group",
+        "description": "Learn from professionals actively working in top companies."
+      },
+      {
+        "title": "Real-world Projects",
+        "icon": "fa-solid fa-briefcase",
+        "description": "Work on live campaigns and case studies from real businesses."
+      },
+      {
+        "title": "Career-focused Curriculum",
+        "icon": "fa-solid fa-rocket",
+        "description": "Every module designed to make you job-ready from day one."
+      }
+    ]
+  },
+  "impact": {
+    "title": "Our Impact",
+    "subtitle": "Numbers that speak for themselves",
+    "stats": [
+      {
+        "value": "5000+",
+        "label": "Students Trained",
+        "note": "Across both verticals"
+      },
+      {
+        "value": "100+",
+        "label": "Industry Partners",
+        "note": "Leading companies"
+      },
+      {
+        "value": "95%",
+        "label": "Placement Support",
+        "note": "Career assistance rate"
+      },
+      {
+        "value": "2",
+        "label": "Learning Verticals",
+        "note": "Digital + Sports"
+      }
+    ]
+  }
+}
